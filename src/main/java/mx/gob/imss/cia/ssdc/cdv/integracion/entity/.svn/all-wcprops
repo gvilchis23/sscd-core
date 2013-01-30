@@ -1,0 +1,545 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ssdc/!svn/ver/1857/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity
+END
+CdvSistemaEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/ssdc/!svn/ver/1151/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/CdvSistemaEntity.java
+END
+NecCuantitativasEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/ssdc/!svn/ver/1115/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/NecCuantitativasEntity.java
+END
+CdvActControlEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/ssdc/!svn/ver/1039/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/CdvActControlEntity.java
+END
+OpinionTrabajadorEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/ssdc/!svn/ver/1230/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/OpinionTrabajadorEntity.java
+END
+ResultadoServicioEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/ssdc/!svn/ver/956/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/ResultadoServicioEntity.java
+END
+RequisitosEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/ssdc/!svn/ver/1283/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/RequisitosEntity.java
+END
+LlaveCompuestaCdvPersona.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/ssdc/!svn/ver/1112/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/LlaveCompuestaCdvPersona.java
+END
+UserEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/ssdc/!svn/ver/956/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/UserEntity.java
+END
+FaseEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/ssdc/!svn/ver/1187/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/FaseEntity.java
+END
+PersonalEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/ssdc/!svn/ver/1716/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/PersonalEntity.java
+END
+LlaveCompuestaMediosCdv.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/ssdc/!svn/ver/1299/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/LlaveCompuestaMediosCdv.java
+END
+PerfilPersonalEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/ssdc/!svn/ver/956/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/PerfilPersonalEntity.java
+END
+LlaveCompProblCuanti.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/ssdc/!svn/ver/1119/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/LlaveCompProblCuanti.java
+END
+RazonEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/ssdc/!svn/ver/1230/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/RazonEntity.java
+END
+AccionEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/ssdc/!svn/ver/1039/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/AccionEntity.java
+END
+IndicadorEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/ssdc/!svn/ver/1112/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/IndicadorEntity.java
+END
+NivelAtencionEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/ssdc/!svn/ver/956/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/NivelAtencionEntity.java
+END
+TipoProcesoCargaEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/ssdc/!svn/ver/1018/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/TipoProcesoCargaEntity.java
+END
+CatServicioEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/ssdc/!svn/ver/1131/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/CatServicioEntity.java
+END
+SubProblematicaEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/ssdc/!svn/ver/941/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/SubProblematicaEntity.java
+END
+MediosCdvEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/ssdc/!svn/ver/1299/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/MediosCdvEntity.java
+END
+SubMenuEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/ssdc/!svn/ver/1716/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/SubMenuEntity.java
+END
+NecCualitativasEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/ssdc/!svn/ver/1115/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/NecCualitativasEntity.java
+END
+PuestoEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/ssdc/!svn/ver/892/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/PuestoEntity.java
+END
+ProblematicaAccionEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/ssdc/!svn/ver/979/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/ProblematicaAccionEntity.java
+END
+ModuloAtencionEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/ssdc/!svn/ver/972/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/ModuloAtencionEntity.java
+END
+LlaveCompuestaUsuarios.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/ssdc/!svn/ver/892/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/LlaveCompuestaUsuarios.java
+END
+ServicioEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/ssdc/!svn/ver/1151/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/ServicioEntity.java
+END
+LlaveCompuestaCdv.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/ssdc/!svn/ver/1299/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/LlaveCompuestaCdv.java
+END
+AnioEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/ssdc/!svn/ver/1168/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/AnioEntity.java
+END
+CategoriaRequisitosEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/ssdc/!svn/ver/1039/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/CategoriaRequisitosEntity.java
+END
+PeriodoUnidadEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/ssdc/!svn/ver/1223/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/PeriodoUnidadEntity.java
+END
+UtilidadesEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/ssdc/!svn/ver/1234/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/UtilidadesEntity.java
+END
+PersonalRelPerfilEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/ssdc/!svn/ver/1112/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/PersonalRelPerfilEntity.java
+END
+TipoVentanillaEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/ssdc/!svn/ver/1777/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/TipoVentanillaEntity.java
+END
+LlaveCompuestaInfraEquipo.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/ssdc/!svn/ver/1187/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/LlaveCompuestaInfraEquipo.java
+END
+LlaveCompPeriodoUnidad.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/ssdc/!svn/ver/1230/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/LlaveCompPeriodoUnidad.java
+END
+SalidaEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/ssdc/!svn/ver/1234/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/SalidaEntity.java
+END
+ObjetivoIndicadorEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/ssdc/!svn/ver/941/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/ObjetivoIndicadorEntity.java
+END
+TipoUnidadEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/ssdc/!svn/ver/1039/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/TipoUnidadEntity.java
+END
+LlaveCompProblAccion.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/ssdc/!svn/ver/979/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/LlaveCompProblAccion.java
+END
+LlaveCompuestaCdvIndicador.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/ssdc/!svn/ver/1112/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/LlaveCompuestaCdvIndicador.java
+END
+SscTipoRegistroEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/ssdc/!svn/ver/1831/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/SscTipoRegistroEntity.java
+END
+EntidadFederativaEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/ssdc/!svn/ver/1039/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/EntidadFederativaEntity.java
+END
+VentanillaPosteriorEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/ssdc/!svn/ver/956/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/VentanillaPosteriorEntity.java
+END
+RequisitosCdvEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/ssdc/!svn/ver/1299/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/RequisitosCdvEntity.java
+END
+CdvPersonaEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/ssdc/!svn/ver/1112/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/CdvPersonaEntity.java
+END
+EquipoInfraestructuraEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/ssdc/!svn/ver/1168/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/EquipoInfraestructuraEntity.java
+END
+TurnoEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/ssdc/!svn/ver/1839/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/TurnoEntity.java
+END
+ProcesoCargaEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/ssdc/!svn/ver/1223/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/ProcesoCargaEntity.java
+END
+SscTipoNotificacionEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/ssdc/!svn/ver/1855/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/SscTipoNotificacionEntity.java
+END
+LlaveCompServicioProblema.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/ssdc/!svn/ver/1321/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/LlaveCompServicioProblema.java
+END
+CdvEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/ssdc/!svn/ver/1857/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/CdvEntity.java
+END
+NecesidadEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/ssdc/!svn/ver/941/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/NecesidadEntity.java
+END
+CdtPerfilPersonalEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/ssdc/!svn/ver/1112/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/CdtPerfilPersonalEntity.java
+END
+InfraestructuraEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/ssdc/!svn/ver/1187/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/InfraestructuraEntity.java
+END
+CategoriaProblematicaEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/ssdc/!svn/ver/1039/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/CategoriaProblematicaEntity.java
+END
+InfraEquipoEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/ssdc/!svn/ver/1187/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/InfraEquipoEntity.java
+END
+ActividadControlEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/ssdc/!svn/ver/1039/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/ActividadControlEntity.java
+END
+FrecuenciaUsoEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/ssdc/!svn/ver/1151/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/FrecuenciaUsoEntity.java
+END
+CursoEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/ssdc/!svn/ver/1234/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/CursoEntity.java
+END
+CausaEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/ssdc/!svn/ver/1112/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/CausaEntity.java
+END
+PeriodoEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/ssdc/!svn/ver/1321/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/PeriodoEntity.java
+END
+VentanillaAnteriorEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/ssdc/!svn/ver/956/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/VentanillaAnteriorEntity.java
+END
+ProblematicaEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/ssdc/!svn/ver/1321/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/ProblematicaEntity.java
+END
+DiasFestivosEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/ssdc/!svn/ver/1223/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/DiasFestivosEntity.java
+END
+UnidadEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/ssdc/!svn/ver/1757/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/UnidadEntity.java
+END
+MenuEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/ssdc/!svn/ver/1716/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/MenuEntity.java
+END
+SistemaEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/ssdc/!svn/ver/1239/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/SistemaEntity.java
+END
+ServicioProblemaEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/ssdc/!svn/ver/1014/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/ServicioProblemaEntity.java
+END
+InformacionPersonalEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/ssdc/!svn/ver/1829/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/InformacionPersonalEntity.java
+END
+LlaveCompCdvSistema.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/ssdc/!svn/ver/1014/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/LlaveCompCdvSistema.java
+END
+ObjetivoActControlEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/ssdc/!svn/ver/1039/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/ObjetivoActControlEntity.java
+END
+EscolaridadEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/ssdc/!svn/ver/1112/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/EscolaridadEntity.java
+END
+Entidad.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/ssdc/!svn/ver/1426/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/Entidad.java
+END
+LlaveCompuestaRequisitosCdv.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/ssdc/!svn/ver/1299/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/LlaveCompuestaRequisitosCdv.java
+END
+SscNotificacionEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/ssdc/!svn/ver/1855/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/SscNotificacionEntity.java
+END
+CdvProblCuantiEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/ssdc/!svn/ver/1131/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/CdvProblCuantiEntity.java
+END
+CdvServicioEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/ssdc/!svn/ver/1131/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/CdvServicioEntity.java
+END
+MediosDifusionEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/ssdc/!svn/ver/956/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/MediosDifusionEntity.java
+END
+PersonaPropiaEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/ssdc/!svn/ver/1246/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/PersonaPropiaEntity.java
+END
+TipoUsuarioEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/ssdc/!svn/ver/1640/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/TipoUsuarioEntity.java
+END
+LlaveCompuestaCdvControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/ssdc/!svn/ver/1010/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/LlaveCompuestaCdvControl.java
+END
+SugerenciaEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/ssdc/!svn/ver/1018/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/SugerenciaEntity.java
+END
+PaavEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/ssdc/!svn/ver/1831/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/PaavEntity.java
+END
+CdvIndicadorEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/ssdc/!svn/ver/1112/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/CdvIndicadorEntity.java
+END
+DelegacionEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/ssdc/!svn/ver/1757/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/DelegacionEntity.java
+END
+ProblemaProcesoEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/ssdc/!svn/ver/944/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/ProblemaProcesoEntity.java
+END
+CategoriaEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/ssdc/!svn/ver/892/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/CategoriaEntity.java
+END
+SscEstatusEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/ssdc/!svn/ver/1831/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/entity/SscEstatusEntity.java
+END

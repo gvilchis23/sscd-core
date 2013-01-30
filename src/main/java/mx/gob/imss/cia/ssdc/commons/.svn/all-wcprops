@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ssdc/!svn/ver/1659/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/commons
+END
+BaseDaoHibernate.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ssdc/!svn/ver/903/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/commons/BaseDaoHibernate.java
+END
+Constantes.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ssdc/!svn/ver/1716/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/commons/Constantes.java
+END
+QueriesNombrados.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ssdc/!svn/ver/1777/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/commons/QueriesNombrados.java
+END
+Dao.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ssdc/!svn/ver/903/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/commons/Dao.java
+END
+SsdcCommon.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ssdc/!svn/ver/1734/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/commons/SsdcCommon.java
+END
+ResultadoDinamico.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/ssdc/!svn/ver/1566/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/commons/ResultadoDinamico.java
+END

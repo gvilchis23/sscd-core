@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ssdc/!svn/ver/1706/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/edc/servicios/impl
+END
+EdcAtencionServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/ssdc/!svn/ver/1330/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/edc/servicios/impl/EdcAtencionServiceImpl.java
+END
+EdcInterServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/ssdc/!svn/ver/1283/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/edc/servicios/impl/EdcInterServiceImpl.java
+END
+EdcGeneralesServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/ssdc/!svn/ver/1839/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/edc/servicios/impl/EdcGeneralesServiceImpl.java
+END
+EdcServiciosServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/ssdc/!svn/ver/1299/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/edc/servicios/impl/EdcServiciosServiceImpl.java
+END
+EdcSolicitudesServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/ssdc/!svn/ver/1313/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/edc/servicios/impl/EdcSolicitudesServiceImpl.java
+END
+EdcServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/ssdc/!svn/ver/1825/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/edc/servicios/impl/EdcServiceImpl.java
+END

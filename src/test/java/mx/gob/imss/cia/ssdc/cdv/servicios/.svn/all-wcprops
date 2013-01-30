@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ssdc/!svn/ver/1656/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/servicios
+END
+TestEdcServiciosService.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/ssdc/!svn/ver/1688/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/servicios/TestEdcServiciosService.java
+END
+TestTipoUsuarioService.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/ssdc/!svn/ver/1688/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/servicios/TestTipoUsuarioService.java
+END
+TestPduService.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/ssdc/!svn/ver/1102/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/servicios/TestPduService.java
+END
+TestEdcService.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/ssdc/!svn/ver/1637/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/servicios/TestEdcService.java
+END
+TestEdcInterService.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/ssdc/!svn/ver/1688/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/servicios/TestEdcInterService.java
+END
+TestRpoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/ssdc/!svn/ver/1102/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/servicios/TestRpoService.java
+END
+TestEdcSolicitudesService.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/ssdc/!svn/ver/1688/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/servicios/TestEdcSolicitudesService.java
+END
+TestPadService.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/ssdc/!svn/ver/1102/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/servicios/TestPadService.java
+END
+TestNceService.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/ssdc/!svn/ver/1102/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/servicios/TestNceService.java
+END
+TestPdcService.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/ssdc/!svn/ver/1102/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/servicios/TestPdcService.java
+END
+TestDlgService.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/ssdc/!svn/ver/1625/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/servicios/TestDlgService.java
+END
+TestCatService.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/ssdc/!svn/ver/1102/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/servicios/TestCatService.java
+END
+TestBusquedaService.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/ssdc/!svn/ver/1777/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/servicios/TestBusquedaService.java
+END
+TestAduService.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/ssdc/!svn/ver/1607/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/servicios/TestAduService.java
+END
+TestIndService.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/ssdc/!svn/ver/1102/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/servicios/TestIndService.java
+END
+TestEdcAtencionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/ssdc/!svn/ver/1637/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/servicios/TestEdcAtencionService.java
+END

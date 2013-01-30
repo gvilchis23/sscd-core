@@ -1,0 +1,21 @@
+##Author: Guillermo vilchis Gonzalez
+##Conexion atravez de JDBC usada para pruebas TRABAJO
+database.driver=oracle.jdbc.driver.OracleDriver
+database.url=jdbc:oracle:thin:@11.254.14.152:1593:PSBDDS01
+database.user=SSDC_DS
+database.password=SSDC_DS
+
+##Conexion atravez de JDBC usada para pruebas CASA
+#database.url=jdbc:oracle:thin:@localhost:1521:xe
+#database.driver=oracle.jdbc.driver.OracleDriver
+#database.user=SSDC_DS
+#database.password=12345678
+
+test.database.driver=org.hsqldb.jdbcDriver
+test.database.url=jdbc:hsqldb:file:src/test/resources/SSDC_DS_HSQL;shutdown=true
+test.database.user=sa
+test.database.password=
+
+
+##Conexion a travez de JNDI usando un pool de conexiones.
+database.resource=jdbc/_XX

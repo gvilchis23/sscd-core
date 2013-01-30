@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ssdc/!svn/ver/1777/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/servicios/impl
+END
+AdministracionUsuariosServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/ssdc/!svn/ver/1607/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/servicios/impl/AdministracionUsuariosServiceImpl.java
+END
+RpoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/ssdc/!svn/ver/901/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/servicios/impl/RpoServiceImpl.java
+END
+TipoUsuarioServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/ssdc/!svn/ver/901/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/servicios/impl/TipoUsuarioServiceImpl.java
+END
+PadServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/ssdc/!svn/ver/1723/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/servicios/impl/PadServiceImpl.java
+END
+MenuServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/ssdc/!svn/ver/1716/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/servicios/impl/MenuServiceImpl.java
+END
+NceServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/ssdc/!svn/ver/901/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/servicios/impl/NceServiceImpl.java
+END
+PdcServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/ssdc/!svn/ver/901/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/servicios/impl/PdcServiceImpl.java
+END
+DlgServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/ssdc/!svn/ver/1811/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/servicios/impl/DlgServiceImpl.java
+END
+PduServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/ssdc/!svn/ver/1695/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/servicios/impl/PduServiceImpl.java
+END
+BusquedaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/ssdc/!svn/ver/1777/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/servicios/impl/BusquedaServiceImpl.java
+END
+IndServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/ssdc/!svn/ver/1471/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/servicios/impl/IndServiceImpl.java
+END

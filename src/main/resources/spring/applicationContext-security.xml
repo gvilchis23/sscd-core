@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:sec="http://www.springframework.org/schema/security"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+                        http://www.springframework.org/schema/beans/spring-beans-2.5.xsd
+                        http://www.springframework.org/schema/security
+                         http://www.springframework.org/schema/security/spring-security-2.0.4.xsd">
+ 
+	
+	
+	<sec:http auto-config="true" session-fixation-protection="newSession" >
+	<sec:intercept-url pattern="/view/**" access="ROLE_USER" />
+	<sec:intercept-url pattern="/view/catalogos/**" access="ROLE_USER" />
+	<sec:intercept-url pattern="/view/login/login.faces" filters="none" />
+       <sec:form-login
+        login-processing-url="/conf/j_spring_security_check" 
+        login-page="/view/login/login.faces"
+        authentication-failure-url="/view/login/login.faces?authfailed=true"
+         default-target-url="/view/menuprincipal/menuPrincipal.faces"/>
+         <sec:remember-me  token-validity-seconds="10"/>
+         <sec:logout logout-url="/conf/j_spring_security_logout" invalidate-session="true" logout-success-url="/" 
+         />  
+       </sec:http>       
+	
+	  <sec:authentication-provider>
+        <sec:jdbc-user-service id="userDetailsService" data-source-ref="dataSource" 
+       users-by-username-query="select s.usuario as username,s.pass as password, s.enable as enable from SSDC_DS.SPRING_USER s where s.usuario=?"
+       authorities-by-username-query="SELECT a.username as username,a.authority as authority FROM SSDC_DS.SPRING_AUTHORITIES a WHERE a.username=?"/>
+       
+    </sec:authentication-provider>
+	 
+	<bean id="loggerListener"
+		class="org.springframework.security.event.authentication.LoggerListener" />
+	
+</beans>
+
+	
+	
+	

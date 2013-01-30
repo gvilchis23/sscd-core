@@ -1,0 +1,461 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ssdc/!svn/ver/1868/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl
+END
+RazonDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/ssdc/!svn/ver/1112/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/RazonDaoImpl.java
+END
+DelegacionDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/ssdc/!svn/ver/1706/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/DelegacionDaoImpl.java
+END
+FrecuenciaUsoDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/ssdc/!svn/ver/1187/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/FrecuenciaUsoDaoImpl.java
+END
+CursoDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/ssdc/!svn/ver/1151/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/CursoDaoImpl.java
+END
+CategoriaDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/ssdc/!svn/ver/891/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/CategoriaDaoImpl.java
+END
+AdministracionUsuariosDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/ssdc/!svn/ver/1298/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/AdministracionUsuariosDaoImpl.java
+END
+TipoUnidadDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/ssdc/!svn/ver/1640/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/TipoUnidadDaoImpl.java
+END
+CdvSistemaDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/ssdc/!svn/ver/1151/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/CdvSistemaDaoImpl.java
+END
+DiasFestivosDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/ssdc/!svn/ver/1168/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/DiasFestivosDaoImpl.java
+END
+EquipoInfraestructuraDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/ssdc/!svn/ver/1168/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/EquipoInfraestructuraDaoImpl.java
+END
+VentanillaPosteriorDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/ssdc/!svn/ver/1283/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/VentanillaPosteriorDaoImpl.java
+END
+RequisitosCdvDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/ssdc/!svn/ver/1321/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/RequisitosCdvDaoImpl.java
+END
+CdvPersonaDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/ssdc/!svn/ver/1112/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/CdvPersonaDaoImpl.java
+END
+ResultadoServicioDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/ssdc/!svn/ver/1283/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/ResultadoServicioDaoImpl.java
+END
+ProcesoCargaDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/ssdc/!svn/ver/1112/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/ProcesoCargaDaoImpl.java
+END
+CdvDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/ssdc/!svn/ver/1112/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/CdvDaoImpl.java
+END
+MediosCdvDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/ssdc/!svn/ver/1299/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/MediosCdvDaoImpl.java
+END
+CdvProblCuantiDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/ssdc/!svn/ver/1131/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/CdvProblCuantiDaoImpl.java
+END
+CdtPerfilPersonalDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/ssdc/!svn/ver/1112/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/CdtPerfilPersonalDaoImpl.java
+END
+TipoUsuarioDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/ssdc/!svn/ver/891/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/TipoUsuarioDaoImpl.java
+END
+PaavDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/ssdc/!svn/ver/1321/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/PaavDaoImpl.java
+END
+TipoVentanillaDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/ssdc/!svn/ver/1777/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/TipoVentanillaDaoImpl.java
+END
+CausaDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/ssdc/!svn/ver/1350/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/CausaDaoImpl.java
+END
+SalidaDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/ssdc/!svn/ver/1112/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/SalidaDaoImpl.java
+END
+NivelAtencionDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/ssdc/!svn/ver/1112/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/NivelAtencionDaoImpl.java
+END
+UnidadDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/ssdc/!svn/ver/1757/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/UnidadDaoImpl.java
+END
+MenuDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/ssdc/!svn/ver/1716/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/MenuDaoImpl.java
+END
+RequisitosDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/ssdc/!svn/ver/1283/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/RequisitosDaoImpl.java
+END
+InformacionPersonalDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/ssdc/!svn/ver/1187/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/InformacionPersonalDaoImpl.java
+END
+FaseEntityDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/ssdc/!svn/ver/1187/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/FaseEntityDaoImpl.java
+END
+SubMenuDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/ssdc/!svn/ver/1719/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/SubMenuDaoImpl.java
+END
+CdvServicioDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/ssdc/!svn/ver/1706/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/CdvServicioDaoImpl.java
+END
+InfraestructuraDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/ssdc/!svn/ver/1187/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/InfraestructuraDaoImpl.java
+END
+CategoriaProblematicaDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/ssdc/!svn/ver/1039/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/CategoriaProblematicaDaoImpl.java
+END
+PersonalDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/ssdc/!svn/ver/1716/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/PersonalDaoImpl.java
+END
+CategoriaRequisitosDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/ssdc/!svn/ver/1039/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/CategoriaRequisitosDaoImpl.java
+END
+PeriodoUnidadDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/ssdc/!svn/ver/1321/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/PeriodoUnidadDaoImpl.java
+END
+UsuarioDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/ssdc/!svn/ver/891/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/UsuarioDaoImpl.java
+END
+ActividadControlDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/ssdc/!svn/ver/1039/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/ActividadControlDaoImpl.java
+END
+ProblemaProcesoDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/ssdc/!svn/ver/1112/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/ProblemaProcesoDaoImpl.java
+END
+ObjetivoIndicadorDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/ssdc/!svn/ver/1112/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/ObjetivoIndicadorDaoImpl.java
+END
+PeriodoDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/ssdc/!svn/ver/1112/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/PeriodoDaoImpl.java
+END
+VentanillaAnteriorDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/ssdc/!svn/ver/1283/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/VentanillaAnteriorDaoImpl.java
+END
+SistemaDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/ssdc/!svn/ver/1112/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/SistemaDaoImpl.java
+END
+SscTipoNotificacionDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/ssdc/!svn/ver/1857/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/SscTipoNotificacionDaoImpl.java
+END
+CatServicioDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/ssdc/!svn/ver/1283/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/CatServicioDaoImpl.java
+END
+ProblematicaAccionDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/ssdc/!svn/ver/1112/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/ProblematicaAccionDaoImpl.java
+END
+PuestoDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/ssdc/!svn/ver/891/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/PuestoDaoImpl.java
+END
+NecCualitativasDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/ssdc/!svn/ver/1112/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/NecCualitativasDaoImpl.java
+END
+MediosDifusionDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/ssdc/!svn/ver/1283/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/MediosDifusionDaoImpl.java
+END
+InfraEquipoDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/ssdc/!svn/ver/1187/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/InfraEquipoDaoImpl.java
+END
+ServicioDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/ssdc/!svn/ver/1283/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/ServicioDaoImpl.java
+END
+SugerenciaDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/ssdc/!svn/ver/1112/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/SugerenciaDaoImpl.java
+END
+UtilidadesDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/ssdc/!svn/ver/1112/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/UtilidadesDaoImpl.java
+END
+CdvIndicadorDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/ssdc/!svn/ver/1112/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/CdvIndicadorDaoImpl.java
+END
+IndicadorDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/ssdc/!svn/ver/1187/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/IndicadorDaoImpl.java
+END
+AccionDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/ssdc/!svn/ver/1039/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/AccionDaoImpl.java
+END
+SscEstatusDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/ssdc/!svn/ver/1857/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/SscEstatusDaoImpl.java
+END
+ProblematicaDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/ssdc/!svn/ver/1112/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/ProblematicaDaoImpl.java
+END
+EntidadFederativaDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/ssdc/!svn/ver/891/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/EntidadFederativaDaoImpl.java
+END
+SscTipoRegistroDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/ssdc/!svn/ver/1857/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/SscTipoRegistroDaoImpl.java
+END
+TipoProcesoCargaDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/ssdc/!svn/ver/1112/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/TipoProcesoCargaDaoImpl.java
+END
+CdvActControlDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/ssdc/!svn/ver/1039/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/CdvActControlDaoImpl.java
+END
+AbstractPersistenceDaoGenericHibernate.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/ssdc/!svn/ver/1589/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/AbstractPersistenceDaoGenericHibernate.java
+END
+NecCuantitativasDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/ssdc/!svn/ver/1112/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/NecCuantitativasDaoImpl.java
+END
+OpinionTrabajadorDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/ssdc/!svn/ver/1112/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/OpinionTrabajadorDaoImpl.java
+END
+TurnoDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/ssdc/!svn/ver/1868/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/TurnoDaoImpl.java
+END
+EscolaridadDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/ssdc/!svn/ver/1168/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/EscolaridadDaoImpl.java
+END
+ObjetivoActControlDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/ssdc/!svn/ver/1112/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/ObjetivoActControlDaoImpl.java
+END
+SubProblematicaDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/ssdc/!svn/ver/1112/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/SubProblematicaDaoImpl.java
+END
+SscNotificacionDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/ssdc/!svn/ver/1857/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/SscNotificacionDaoImpl.java
+END
+NecesidadDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/ssdc/!svn/ver/1112/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/NecesidadDaoImpl.java
+END
+ModuloAtencionDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/ssdc/!svn/ver/1112/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/ModuloAtencionDaoImpl.java
+END
+PersonaPropiaDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/ssdc/!svn/ver/1246/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/PersonaPropiaDaoImpl.java
+END
+PerfilPersonalDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/ssdc/!svn/ver/891/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/PerfilPersonalDaoImpl.java
+END
+PersonalRelPerfilDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/ssdc/!svn/ver/1716/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/impl/PersonalRelPerfilDaoImpl.java
+END

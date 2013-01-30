@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ssdc/!svn/ver/1659/Implementacion/codigo/ssdc-core/src/main/resources/spring
+END
+applicationContext-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ssdc/!svn/ver/1762/Implementacion/codigo/ssdc-core/src/main/resources/spring/applicationContext-service.xml
+END
+applicationContext-hibernate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ssdc/!svn/ver/1828/Implementacion/codigo/ssdc-core/src/main/resources/spring/applicationContext-hibernate.xml
+END
+applicationContext-resource.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ssdc/!svn/ver/1762/Implementacion/codigo/ssdc-core/src/main/resources/spring/applicationContext-resource.xml
+END
+applicationContext-security.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ssdc/!svn/ver/568/Implementacion/codigo/ssdc-core/src/main/resources/spring/applicationContext-security.xml
+END

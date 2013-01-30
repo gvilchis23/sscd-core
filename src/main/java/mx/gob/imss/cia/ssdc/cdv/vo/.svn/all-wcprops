@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ssdc/!svn/ver/1777/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/vo
+END
+DelegacionVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ssdc/!svn/ver/1656/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/vo/DelegacionVo.java
+END
+TipoRegistroVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ssdc/!svn/ver/1695/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/vo/TipoRegistroVo.java
+END
+TipoInformeVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ssdc/!svn/ver/1695/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/vo/TipoInformeVo.java
+END
+AdministracionUsuarioVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/ssdc/!svn/ver/1695/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/vo/AdministracionUsuarioVo.java
+END
+ProcesoDeCargaVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ssdc/!svn/ver/1695/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/vo/ProcesoDeCargaVo.java
+END
+CdvDatoGeneralVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ssdc/!svn/ver/1811/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/vo/CdvDatoGeneralVo.java
+END
+RegistroCdvPaavVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ssdc/!svn/ver/1811/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/vo/RegistroCdvPaavVo.java
+END
+UnidadVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ssdc/!svn/ver/1757/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/vo/UnidadVo.java
+END
+MesVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ssdc/!svn/ver/1695/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/vo/MesVo.java
+END
+AnyoVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ssdc/!svn/ver/1695/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/vo/AnyoVo.java
+END
+TurnoVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ssdc/!svn/ver/1757/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/vo/TurnoVo.java
+END
+EstatusVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ssdc/!svn/ver/1695/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/vo/EstatusVo.java
+END
+CatalogoVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ssdc/!svn/ver/902/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/vo/CatalogoVo.java
+END
+TipoVentanillaVo.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ssdc/!svn/ver/1777/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/vo/TipoVentanillaVo.java
+END

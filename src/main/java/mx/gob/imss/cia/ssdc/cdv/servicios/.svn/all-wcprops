@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ssdc/!svn/ver/1777/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/servicios
+END
+TipoUsuarioService.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/ssdc/!svn/ver/898/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/servicios/TipoUsuarioService.java
+END
+PduService.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ssdc/!svn/ver/1839/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/servicios/PduService.java
+END
+CatalogoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/ssdc/!svn/ver/1150/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/servicios/CatalogoService.java
+END
+SsdcException.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/ssdc/!svn/ver/1607/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/servicios/SsdcException.java
+END
+AdministracionUsuariosService.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/ssdc/!svn/ver/1607/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/servicios/AdministracionUsuariosService.java
+END
+PanelService.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/ssdc/!svn/ver/1594/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/servicios/PanelService.java
+END
+RpoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ssdc/!svn/ver/898/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/servicios/RpoService.java
+END
+PadService.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ssdc/!svn/ver/1839/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/servicios/PadService.java
+END
+MenuService.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/ssdc/!svn/ver/1716/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/servicios/MenuService.java
+END
+NceService.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ssdc/!svn/ver/898/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/servicios/NceService.java
+END
+PdcService.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ssdc/!svn/ver/1594/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/servicios/PdcService.java
+END
+DlgService.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ssdc/!svn/ver/1839/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/servicios/DlgService.java
+END
+BusquedaService.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/ssdc/!svn/ver/1758/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/servicios/BusquedaService.java
+END
+AduService.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ssdc/!svn/ver/1552/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/servicios/AduService.java
+END
+IndService.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ssdc/!svn/ver/1451/Implementacion/codigo/ssdc-core/src/main/java/mx/gob/imss/cia/ssdc/cdv/servicios/IndService.java
+END

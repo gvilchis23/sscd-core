@@ -1,0 +1,431 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ssdc/!svn/ver/1868/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao
+END
+TestFaseEntityDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/ssdc/!svn/ver/1187/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestFaseEntityDao.java
+END
+TestCdvServicioDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/ssdc/!svn/ver/1321/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestCdvServicioDao.java
+END
+TestCategoriaProblematicaDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/ssdc/!svn/ver/1151/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestCategoriaProblematicaDao.java
+END
+TestInfraestructuraDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/ssdc/!svn/ver/1187/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestInfraestructuraDao.java
+END
+TestPersonalDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/ssdc/!svn/ver/915/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestPersonalDao.java
+END
+TestCategoriaRequisitosDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/ssdc/!svn/ver/1151/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestCategoriaRequisitosDao.java
+END
+TestPeriodoUnidadDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/ssdc/!svn/ver/1321/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestPeriodoUnidadDao.java
+END
+TestUsuarioDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/ssdc/!svn/ver/915/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestUsuarioDao.java
+END
+TestActividadControlDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/ssdc/!svn/ver/1321/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestActividadControlDao.java
+END
+TestProblemaProcesoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/ssdc/!svn/ver/1172/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestProblemaProcesoDao.java
+END
+TestObjetivoIndicadorDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/ssdc/!svn/ver/1172/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestObjetivoIndicadorDao.java
+END
+TestVentanillaAnteriorDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/ssdc/!svn/ver/1283/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestVentanillaAnteriorDao.java
+END
+TestPeriodoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/ssdc/!svn/ver/1231/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestPeriodoDao.java
+END
+TestSistemaDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/ssdc/!svn/ver/1188/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestSistemaDao.java
+END
+TestSscTipoNotificacionDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/ssdc/!svn/ver/1857/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestSscTipoNotificacionDao.java
+END
+TestCatServicioDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/ssdc/!svn/ver/1283/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestCatServicioDao.java
+END
+TestPuestoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/ssdc/!svn/ver/915/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestPuestoDao.java
+END
+TestNecCualitativasDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/ssdc/!svn/ver/1134/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestNecCualitativasDao.java
+END
+TestMediosDifusionDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/ssdc/!svn/ver/1283/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestMediosDifusionDao.java
+END
+TestInfraEquipoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/ssdc/!svn/ver/1187/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestInfraEquipoDao.java
+END
+TestServicioDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/ssdc/!svn/ver/1283/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestServicioDao.java
+END
+TestSugerenciaDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/ssdc/!svn/ver/1231/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestSugerenciaDao.java
+END
+TestUtilidadesDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/ssdc/!svn/ver/1231/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestUtilidadesDao.java
+END
+TestCdvIndicadorDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/ssdc/!svn/ver/1321/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestCdvIndicadorDao.java
+END
+TestIndicadorDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/ssdc/!svn/ver/1187/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestIndicadorDao.java
+END
+TestAccionDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/ssdc/!svn/ver/1151/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestAccionDao.java
+END
+TestSscEstatusDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/ssdc/!svn/ver/1857/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestSscEstatusDao.java
+END
+TestProblematicaDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/ssdc/!svn/ver/1188/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestProblematicaDao.java
+END
+TestEntidadFederativaDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/ssdc/!svn/ver/1168/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestEntidadFederativaDao.java
+END
+TestSscTipoRegistroDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/ssdc/!svn/ver/1857/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestSscTipoRegistroDao.java
+END
+TestTipoProcesoCargaDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/ssdc/!svn/ver/1231/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestTipoProcesoCargaDao.java
+END
+TestOpinionTrabajadorDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/ssdc/!svn/ver/1172/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestOpinionTrabajadorDao.java
+END
+TestNecCuantitativasDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/ssdc/!svn/ver/1134/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestNecCuantitativasDao.java
+END
+TestCdvActControlDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/ssdc/!svn/ver/1151/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestCdvActControlDao.java
+END
+TestTurnoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/ssdc/!svn/ver/1868/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestTurnoDao.java
+END
+TestObjetivoActControlDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/ssdc/!svn/ver/1166/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestObjetivoActControlDao.java
+END
+TestEscolaridadDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/ssdc/!svn/ver/1187/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestEscolaridadDao.java
+END
+TestSubProblematicaDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/ssdc/!svn/ver/1188/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestSubProblematicaDao.java
+END
+TestSscNotificacionDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/ssdc/!svn/ver/1857/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestSscNotificacionDao.java
+END
+TestNecesidadDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/ssdc/!svn/ver/1160/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestNecesidadDao.java
+END
+TestModuloAtencionDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/ssdc/!svn/ver/1134/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestModuloAtencionDao.java
+END
+TestPersonaPropiaDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/ssdc/!svn/ver/915/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestPersonaPropiaDao.java
+END
+TestPerfilPersonalDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/ssdc/!svn/ver/1112/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestPerfilPersonalDao.java
+END
+TestRazonDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/ssdc/!svn/ver/1188/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestRazonDao.java
+END
+TestDelegacionDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/ssdc/!svn/ver/1757/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestDelegacionDao.java
+END
+TestFrecuenciaUsoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/ssdc/!svn/ver/1187/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestFrecuenciaUsoDao.java
+END
+TestCursoDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/ssdc/!svn/ver/1151/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestCursoDao.java
+END
+TestCategoriaDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/ssdc/!svn/ver/857/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestCategoriaDao.java
+END
+TestAdministracionUsuariosDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/ssdc/!svn/ver/1298/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestAdministracionUsuariosDao.java
+END
+TestTipoUnidadDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/ssdc/!svn/ver/915/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestTipoUnidadDao.java
+END
+TestCdvSistemaDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/ssdc/!svn/ver/1151/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestCdvSistemaDao.java
+END
+TestDiasFestivosDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/ssdc/!svn/ver/1168/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestDiasFestivosDao.java
+END
+TestVentanillaPosteriorDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/ssdc/!svn/ver/1283/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestVentanillaPosteriorDao.java
+END
+TestCdvPersonaDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/ssdc/!svn/ver/1321/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestCdvPersonaDao.java
+END
+TestRequisitosCdvDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/ssdc/!svn/ver/1321/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestRequisitosCdvDao.java
+END
+TestEquipoInfraestructuraDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/ssdc/!svn/ver/1187/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestEquipoInfraestructuraDao.java
+END
+TestResultadoServicioDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/ssdc/!svn/ver/1283/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestResultadoServicioDao.java
+END
+TestProcesoCargaDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/ssdc/!svn/ver/1188/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestProcesoCargaDao.java
+END
+TestPaavDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/ssdc/!svn/ver/1831/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestPaavDaoImpl.java
+END
+TestCdvDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/ssdc/!svn/ver/1857/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestCdvDao.java
+END
+TestMediosCdvDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/ssdc/!svn/ver/915/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestMediosCdvDao.java
+END
+TestCdvProblCuantiDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/ssdc/!svn/ver/1151/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestCdvProblCuantiDao.java
+END
+TestCdtPerfilPersonalDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/ssdc/!svn/ver/1151/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestCdtPerfilPersonalDao.java
+END
+TestTipoUsuarioDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/ssdc/!svn/ver/915/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestTipoUsuarioDao.java
+END
+TestTipoVentanillaDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/ssdc/!svn/ver/1777/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestTipoVentanillaDao.java
+END
+TestCausaDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/ssdc/!svn/ver/1151/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestCausaDao.java
+END
+TestSalidaDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/ssdc/!svn/ver/1188/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestSalidaDao.java
+END
+TestNivelAtencionDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/ssdc/!svn/ver/1166/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestNivelAtencionDao.java
+END
+TestUnidadDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/ssdc/!svn/ver/1757/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestUnidadDao.java
+END
+TestRequisitosDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/ssdc/!svn/ver/1283/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestRequisitosDao.java
+END
+TestInformacionPersonalDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/ssdc/!svn/ver/1187/Implementacion/codigo/ssdc-core/src/test/java/mx/gob/imss/cia/ssdc/cdv/integracion/dao/TestInformacionPersonalDao.java
+END
